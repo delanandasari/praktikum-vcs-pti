@@ -1,2 +1,4 @@
 # praktikum-vcs-pti
 Latihan Version Control System mahasiswa PTI
+
+Proyek latihan Version Control System ini bertujuan untuk memperkenalkan mahasiswa Pendidikan Teknologi Informasi (PTI) pada penggunaan sistem pengelolaan versi dalam pengembangan perangkat lunak. Melalui proyek ini, mahasiswa mempelajari penggunaan Git dan GitHub untuk mengelola perubahan kode atau dokumen, membuat repositori, melakukan commit, mengunggah proyek ke repositori daring menggunakan push, mengambil perubahan menggunakan pull, serta memahami cara kerja kolaborasi dalam pengembangan proyek. Kegiatan ini diharapkan dapat meningkatkan keterampilan mahasiswa dalam mengelola proyek secara terstruktur, melacak riwayat perubahan, dan bekerja sama dengan anggota tim secara efektif sebagai bekal dalam mengembangkan proyek teknologi informasi di masa mendatang.
